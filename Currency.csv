@@ -1,0 +1,35 @@
+name,code,countries,symbol
+UK Pound,GBP,"[""Guernsey"",""Isle Of Man"",""Jersey"",""United Kingdom Of Great Britain And Northern Ireland (The)""]",£
+Czech Koruna,CZK,"[""Czechia""]",Kč
+Latvian Lat,LVL,,Ls
+Swiss Franc,CHF,"[""Liechtenstein"",""Switzerland""]",CHF
+Croatian Kruna,HRK,"[""Croatia""]",kn
+Danish Krone,DKK,"[""Denmark"",""Faroe Islands (The)"",""Greenland""]",kr
+Korean Won,KRW,"[""Korea (The Republic Of)""]",₩
+Swedish Krona,SEK,"[""Sweden""]",kr
+Turkish Lira,TRY,"[""Turkey""]",₤
+Hungarian Forint,HUF,"[""Hungary""]",Ft
+Brazilian Real,BRL,"[""Brazil""]",R$
+Lithuanian Litas,LTL,,Lt
+Bulgarian Lev,BGN,"[""Bulgaria""]",лB
+Polish Zloty,PLN,"[""Poland""]",zł
+US Dollar,USD,"[""American Samoa"",""Bonaire, Sint Eustatius And Saba"",""British Indian Ocean Territory (The)"",""Ecuador"",""El Salvador"",""Guam"",""Haiti"",""Marshall Islands (The)"",""Micronesia (Federated States Of)"",""Northern Mariana Islands (The)"",""Palau"",""Panama"",""Puerto Rico"",""Timor-Leste"",""Turks And Caicos Islands (The)"",""United States Minor Outlying Islands (The)"",""United States Of America (The)"",""Virgin Islands (British)"",""Virgin Islands (U.S.)""]",$
+Russian Ruble,RUB,"[""Russian Federation (The)""]",руб
+Japanese Yen,JPY,"[""Japan""]",¥
+Romanian New Leu,RON,"[""Romania""]",lei
+Norwegian Krone,NOK,"[""Bouvet Island"",""Norway"",""Svalbard And Jan Mayen""]",kr
+Australian Dollar,AUD,"[""Australia"",""Christmas Island"",""Cocos (Keeling) Islands (The)"",""Heard Island And Mcdonald Islands"",""Kiribati"",""Nauru"",""Norfolk Island"",""Tuvalu""]",$
+Israeli Shekel,ILS,"[""Israel""]",₪
+New Zealand Dollar,NZD,"[""Cook Islands (The)"",""New Zealand"",""Niue"",""Pitcairn"",""Tokelau""]",$
+Indonesian Rupiah,IDR,"[""Indonesia""]",Rp
+Philippine Peso,PHP,"[""Philippines (The)""]",₱
+Euro,EUR,"[""Andorra"",""Austria"",""Belgium"",""Cyprus"",""Estonia"",""European Union"",""Finland"",""France"",""French Guiana"",""French Southern Territories (The)"",""Germany"",""Greece"",""Guadeloupe"",""Holy See (The)"",""Ireland"",""Italy"",""Latvia"",""Lithuania"",""Luxembourg"",""Malta"",""Martinique"",""Mayotte"",""Monaco"",""Montenegro"",""Netherlands (The)"",""Portugal"",""Réunion"",""Saint Barthélemy"",""Saint Martin (French Part)"",""Saint Pierre And Miquelon"",""San Marino"",""Slovakia"",""Slovenia"",""Spain"",""Åland Islands""]",€
+Canadian Dollar,CAD,"[""Canada""]",$
+Chinese Yuan,CNY,"[""China""]",¥
+Hong Kong Dollar,HKD,"[""Hong Kong""]",$
+Indian Rupee,INR,"[""Bhutan"",""India""]",₨
+Mexican Peso,MXN,"[""Mexico""]",$
+Malaysian Ringgit,MYR,"[""Malaysia""]",RM
+South African Rand,ZAR,"[""Lesotho"",""Namibia"",""South Africa""]",R
+Thai Baht,THB,"[""Thailand""]",฿
+Singaporean Dollar,SGD,"[""Singapore""]",$
